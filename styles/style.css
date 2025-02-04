@@ -1,4 +1,3 @@
-
 body {
     margin: 0;
     font-family: 'Raleway', sans-serif;
@@ -36,8 +35,8 @@ body {
 }
 
 .header__links-list-item {
-    list-style: circle; 
-    list-style-position: inside; 
+    list-style: circle;
+    list-style-position: inside;
 }
 
 .header__links-list-item_no-bullit {
@@ -127,7 +126,7 @@ body {
     text-align: right;
 }
 
-.cover__description { 
+.cover__description {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
